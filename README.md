@@ -23,6 +23,12 @@ AI-Agent  for generating a stylized video with sound
 *   **Выход:** Папка `generated_frames_2d` с кадрами для 2D-видео.
 
 
-https://github.com/user-attachments/assets/7e74515c-8d6d-4bfe-8f63-f401cc61887b
+https://github.com/user-attachments/assets/7e74515c-8d6d-4bfe-8f63-
+https://github.com/user-attachments/assets/6cbae384-a0cf-4690-a3a7-06eff87c2371f401cc61887b
+
+
+
+
+
 
 
