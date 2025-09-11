@@ -42,7 +42,11 @@ https://github.com/user-attachments/assets/b73b91df-187b-4495-83cd-a67c7bd2bfaa
 *   **Выход:** Финальный файл `final_movie.mp4`.
   
 
-https://github.com/user-attachments/assets/f79fef16-9f07-4c4f-b0eb-4f10ee0bfdce
+Uploading 0911(2).mp4…
+
+
+
+
 
 
 
