@@ -36,6 +36,16 @@ https://github.com/user-attachments/assets/a21fdfde-1f34-4d85-82e8-387f984303f6
 
 https://github.com/user-attachments/assets/b73b91df-187b-4495-83cd-a67c7bd2bfaa
 
+**5: Генерация музыки и финальный монтаж**
+*   **Вход:** Папки с кадрами (`generated_frames_2d` и `generated_frames_3d`).
+*   **Действие:** Генерирует фоновую музыку с помощью AudioLDM 2. Затем с помощью MoviePy собирает два видеоклипа, накладывает на них музыку и склеивает в один финальный фильм.
+*   **Выход:** Финальный файл `final_movie.mp4`.
+  
+
+https://github.com/user-attachments/assets/f79fef16-9f07-4c4f-b0eb-4f10ee0bfdce
+
+
+
 
 
 
