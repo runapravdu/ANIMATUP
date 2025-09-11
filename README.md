@@ -20,6 +20,7 @@ AI-Agent  for generating a stylized video with sound
 **3: Генерация картинок с высокой деталезацией**
 
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/94d9f3c1-ecae-4af7-9822-490ddc0ed91f" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/4cf4a049-c9a8-425a-b759-a142fbf74985" />
 
 **Задача:** Создать базовые видеоклипы в 2D и 3D стилях.
 
